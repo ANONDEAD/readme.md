@@ -22,6 +22,3 @@ Learn until you no longer know what to study
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-![](https://komarev.com/ghpvc/?username= ANONDEAD&label=Visitors+Count&color=brightgreen)
